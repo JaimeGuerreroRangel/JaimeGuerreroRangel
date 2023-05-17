@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaime From Mexico</h1>
 <h3 align="center">A beginner in Odoo and Python, exploring the intricacies of programming and navigating the sea of possibilities that this platform and language offer, with unwavering determination to become an expert in Odoo development and aspiring to become a highly competent junior programmer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaimeguerrerorangel" alt="jaimeguerrerorangel" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaimeguerrerorangel" alt="jaimeguerrerorangel" /></a> </p>
 
 - 🔭 I’m currently working on **Exdoo TI SRL de CV**
 
