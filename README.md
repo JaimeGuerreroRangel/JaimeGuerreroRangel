@@ -1,12 +1,18 @@
-<h1 align="center">Hi 👋, I'm Jaime From Mexico</h1>
+<div style="display: flex; align-items: center;">
+  <h1 style="text-align: center; margin-right: 10px;">Hello <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="40px" alt="Wave" /></h1>
+  <h1 style="font-size: 20px;">I'm Jimmy from the Hidden Paste Village in Mexico.</h1>
 
-<p aling="center">
-    <img src="https://64.media.tumblr.com/9fd5a3db01d43d79d297404171d84181/tumblr_muc021iaHf1r0dbsno1_500.gifv" alt="Your GIF"/>
-</p>
+
 
 <h3 align="center">A beginner in Odoo and Python, exploring the intricacies of programming and navigating the sea of possibilities that this platform and language offer, with unwavering determination to become an expert in Odoo development and aspiring to become a highly competent junior programmer.</h3>
 
+<p align="center">
+    <img src="https://64.media.tumblr.com/9fd5a3db01d43d79d297404171d84181/tumblr_muc021iaHf1r0dbsno1_500.gifv" alt="Your GIF"/>
+</p>
+
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaimeguerrerorangel" alt="jaimeguerrerorangel" /></a> </p>
+    
 
 - 🔭 I’m currently working on **Exdoo TI SRL de CV**
 
