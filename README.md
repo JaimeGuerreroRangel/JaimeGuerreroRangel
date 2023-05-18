@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaime From Mexico</h1>
 
 <p aling="center">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com.mx%2Fpin%2F491877590531216357%2F%3Famp_client_id%3DCLIENT_ID%2528_%2529%26mweb_unauth_id%3D%26simplified%3Dtrue&psig=AOvVaw0uA6upkXGUXNiWEf2Wos3e&ust=1684469564488000&source=images&cd=vfe&ved=0CBEQjRxqGAoTCMCCyqKA_v4CFQAAAAAdAAAAABCFAg" alt="Your GIF"/>
+    <img src="https://64.media.tumblr.com/9fd5a3db01d43d79d297404171d84181/tumblr_muc021iaHf1r0dbsno1_500.gifv" alt="Your GIF"/>
 </p>
 
 <h3 align="center">A beginner in Odoo and Python, exploring the intricacies of programming and navigating the sea of possibilities that this platform and language offer, with unwavering determination to become an expert in Odoo development and aspiring to become a highly competent junior programmer.</h3>
