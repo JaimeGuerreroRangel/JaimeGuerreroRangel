@@ -34,6 +34,10 @@
 
 - ⚡ Fun fact **On a quest to find my programming superpower, I'm like a chemist mixing languages and elements, but frontend development has sparked an explosive reaction in my coding journey!**
 
+- ## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@jaimeguer/30-nites-of-code)  
+  ![@jaimeguer #30NitesOfCode](https://www.codedex.io/api/petStatus?user=jaimeguer)
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
