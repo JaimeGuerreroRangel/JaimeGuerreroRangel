@@ -16,25 +16,21 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Odoo-%23E95420.svg?&style=for-the-badge&logo=odoo&logoColor=white"/>
 </p>
-
+<!-- Presetation -->
 <p>
   I am Jaime Guerrero Rangel, a Chemical Engineering graduate with an unexpected passion for software development, a hobby that evolved into a professional career thanks to a government program. This opportunity allowed me to specialize in customizing modules for the ERP Odoo, covering versions from 10 to 17 and completing 160 projects in one year. My experience not only reflects my technical capacity but also my ability to integrate innovative solutions that meet complex needs, blending the rigor of chemical engineering with the creativity of software development.
 </p>
-
+<!-- Modules -->
+<div align="center">
+  <h2>🐍 My modules 🐍</h2>
+  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-
-
-<picture>
-    <img align="right" src="https://64.media.tumblr.com/9fd5a3db01d43d79d297404171d84181/tumblr_muc021iaHf1r0dbsno1_500.gifv" alt="Your GIF" width =400px/>
-</picture>
+</div>
 
 <details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
-
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <summary><h2>📘 My Top</h2></summary>
   <p align="left">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/JaimeGuerreroRangel/Portafolio_de_trabajo/tree/main/gifts_to_customers"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
     <a href="https://github.com/DenverCoder1/github-readme-youtube-cards"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-youtube-cards&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-youtube-cards"></a>
@@ -48,21 +44,6 @@
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
-<br>
-- 🔭 I’m currently working as a Junior Programmer at **Exdoo TI SRL de CV**
-
-- 🌱 I’m currently learning **To improve my programming logic and skills in Python.**
-
-- 🤝 I’m looking for help with **Searching for a specialization.**
-
-- 👨‍💻 All of my projects are available at [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JaimeGuerreroRangel/portafolio)
-
-- 📝 I regularly write articles on [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://jaime-guerrero.notion.site/Odoo-179bcee891254b03a3a3cb0fba755bf7)
-
-
-- 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:jaimeguer1998@hotmail.com)
-
-<br>
 
 - ⚡ Fun fact **On a quest to find my programming superpower, I'm like a chemist mixing languages and elements, but frontend development has sparked an explosive reaction in my coding journey!**
 
