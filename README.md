@@ -4,25 +4,22 @@
 <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=JaimeGuerreroRangel&label=PROFILE+VIEWS&color=red&style=for-the-badge" alt="Profile visitor" />
 </p>
-
+<!-- Grettings -->
 <p align="center" >
   <a src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=800&color=692DF0&background=9BFF9100&vCenter=true&random=false&width=435&lines=Hola%2C+bienvenidos+a+mi+perfil;Hello%2C+welcome+to+my+profile" alt="Typing SVG" /></a>
 </p>
-
+<!-- Name -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=35&duration=1&pause=800&color=D22B21&background=9BFF9100&vCenter=true&random=false&width=435&lines=Jaime+Guerrero+Rangel" alt="My name"/>  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=600&size=35&duration=1&pause=800&color=D22B21&background=9BFF9100&vCenter=true&random=false&width=435&lines=Jaime+Guerrero+Rangel" alt="My name"/>  </a>
 </p>
+<!-- Logo -->
 <p align="center">
   <img src="https://img.shields.io/badge/Odoo-%23E95420.svg?&style=for-the-badge&logo=odoo&logoColor=white"/>
 </p>
 
-<br>  
-<p align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quote=A%20beginner%20in%20Odoo%20and%20Python%2C%20exploring%20the%20intricacies%20of%20programming%20and%20navigating%20the%20sea%20of%20possibilities%20that%20this%20platform%20and%20language%20offer%2C%20with%20unwavering%20determination%20to%20become%20an%20expert%20in%20Odoo%20development%20and%20aspiring%20to%20become%20a%20highly%20competent%20junior%20programmer.">
-  </a>
+<p>
+  I am Jaime Guerrero Rangel, a Chemical Engineering graduate with an unexpected passion for software development, a hobby that evolved into a professional career thanks to a government program. This opportunity allowed me to specialize in customizing modules for the ERP Odoo, covering versions from 10 to 17 and completing 160 projects in one year. My experience not only reflects my technical capacity but also my ability to integrate innovative solutions that meet complex needs, blending the rigor of chemical engineering with the creativity of software development.
 </p>
-<br>
 
 
 <picture>
