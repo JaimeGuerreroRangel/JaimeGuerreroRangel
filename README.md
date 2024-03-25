@@ -22,7 +22,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.com/invite/NUdxtyCj" alt="Discord" title="Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="TU_ENLACE_DE_INSTAGRAM_AQUÍ" alt="Instagram" title="Instagram"><img width="32px" src="https://i.imgur.com/AfMU3Yg.png"/></a>
+  <a href="https://www.instagram.com/jimmy.coder/" alt="Instagram" title="Instagram"><img width="32px" src="https://i.imgur.com/AfMU3Yg.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <!-- Presetation -->
 <p>
@@ -33,16 +34,21 @@
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JaimeGuerreroRangel/JaimeGuerreroRangel/output/github-contribution-grid-snake.svg" />
 </div>
-
+<br>
 <!-- Modules -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rakkas&weight=700&size=25&pause=1000&random=false&width=435&lines=My+developed+Odoo+modules." alt="My modules" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rakkas&weight=700&size=30&pause=1000&random=false&width=435&lines=My+developed+Odoo+modules." alt="My modules" /></a>
   <a href="https://github.com/JaimeGuerreroRangel/Portafolio_de_trabajo/tree/main">
-  <img width="1000" src="https://github-readme-stats.vercel.app/api/pin/?username=JaimeGuerreroRangel&repo=Portafolio_de_trabajo&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Odoo 10">
+  <img width="800" src="https://github-readme-stats.vercel.app/api/pin/?username=JaimeGuerreroRangel&repo=Portafolio_de_trabajo&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Odoo 10">
 </a>
 </p>
-  
 
+<h3>👨‍💻 Programming Languages</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,js,py" />
+  </a>
+</p>
 
 - ⚡ Fun fact **On a quest to find my programming superpower, I'm like a chemist mixing languages and elements, but frontend development has sparked an explosive reaction in my coding journey!**
 
