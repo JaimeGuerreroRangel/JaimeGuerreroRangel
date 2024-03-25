@@ -21,6 +21,8 @@
   I am Jaime Guerrero Rangel, a Chemical Engineering graduate with an unexpected passion for software development, a hobby that evolved into a professional career thanks to a government program. This opportunity allowed me to specialize in customizing modules for the ERP Odoo, covering versions from 10 to 17 and completing 160 projects in one year. My experience not only reflects my technical capacity but also my ability to integrate innovative solutions that meet complex needs, blending the rigor of chemical engineering with the creativity of software development.
 </p>
 
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+
 
 <picture>
     <img align="right" src="https://64.media.tumblr.com/9fd5a3db01d43d79d297404171d84181/tumblr_muc021iaHf1r0dbsno1_500.gifv" alt="Your GIF" width =400px/>
