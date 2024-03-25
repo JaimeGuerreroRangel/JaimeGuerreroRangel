@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJaimeGuerreroRangel&label=Bienvenidos&labelColor=%23f47373&countColor=%23263759)
 
 <div style="display: flex; align-items: center;">
   <h1 style="text-align: center; margin-right: 10px;">Hola Bienvenidos <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="40px" alt="Wave" /></h1>
