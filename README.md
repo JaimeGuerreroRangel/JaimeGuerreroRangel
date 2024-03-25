@@ -18,11 +18,6 @@
 </p>
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/jaime-guer/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://simpleicons.org/icons/linkedin.svg"/></a>
-  <a href="https://discord.com/invite/NUdxtyCj" alt="Discord" title="Discord"><img width="32px" src="https://simpleicons.org/icons/discord.svg"/></a>
-  <a href="https://www.instagram.com/jimmy.coder/" alt="Instagram" title="Instagram"><img width="32px" src="https://simpleicons.org/icons/instagram.svg"/></a>
-</p>
-<p align="center">
   <a href="https://www.linkedin.com/in/jaime-guer/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
@@ -51,12 +46,43 @@
 </a>
 </p>
 
-<h3>👨‍💻 Programming Languages</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,py" />
-  </a>
+<h3>👨‍💻 Programming and Markup Languages</h3>
+
+  <p>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
+  </p>
+
+<h3>🧰 Frameworks and Libraries</h3>
+<p>
+- 📝 **Excel and CSV Operations**: `XlsxWriter`, `csv`
+- 🌐 **Web Scraping**: `BeautifulSoup4`, `lxml`
+- 🗄️ **Database Interaction**: `psycopg2` (PostgreSQL)
+- 🌐 **Web Development**: <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+- 🔢 **Number to Words**: `num2words`
 </p>
+
+  <h3>🗄️ Databases and Cloud Hosting</h3>
+
+  <p>
+      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
+      <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+  </p>
+
+  <h3>💻 Software and Tools</h3>
+
+  <p>
+      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+      <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+      <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  </p>
 
 - ⚡ Fun fact **On a quest to find my programming superpower, I'm like a chemist mixing languages and elements, but frontend development has sparked an explosive reaction in my coding journey!**
 
