@@ -1,7 +1,8 @@
-<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJaimeGuerreroRangel&label=Bienvenidos&labelColor=%23f47373&countColor=%23263759" />
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJaimeGuerreroRangel&label=Vistas&labelColor=%23f47373&countColor=%23263759" />
 
-<div style="display: flex; align-items: center;">
-  <h1 style="text-align: center; margin-right: 10px;">Hola Bienvenidos <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="40px" alt="Wave" /></h1>
+<p align="center" >
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=800&color=692DF0&background=9BFF9100&vCenter=true&random=false&width=435&lines=Hola%2C+bienvenidos+a+mi+perfil;Hello%2C+welcome+to+my+profile" alt="Typing SVG" /></a>
+</p>
   
 <h1 style="font-size: 20px;">I'm Jimmy welcome to my profile.</h1>
 
