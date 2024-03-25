@@ -101,8 +101,6 @@ Lastly, I am committed to improving my English skills. I recognize that this is 
 Additionally, I will add personal projects here that I undertake apart from Odoo modules. These projects will not only allow me to apply and expand my technical knowledge in a broader context but also serve as a showcase of my creativity and innovation skills.
 </p>
 
-- ## #30NitesOfCode:
-<p align="center">
-  ![@jaimeguer #30NitesOfCode](https://www.codedex.io/api/petStatus?user=jaimeguer)
-</p>
-
+<div align="center" display="flex">
+  <img src="https://www.codedex.io/images/code-nights/evolved-neutral-dinosaur.gif"/>
+</div>
