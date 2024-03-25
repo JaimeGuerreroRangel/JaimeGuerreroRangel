@@ -9,7 +9,6 @@
 </p>
   
 <p align="center"> 
-  <img src="https://img.shields.io/badge/Odoo-%23E95420.svg?&style=for-the-badge&logo=odoo&logoColor=white"/>
   <a src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=1&pause=800&color=F04747&background=9BFF9100&vCenter=true&random=false&width=435&lines=Jaime+Guerrero)](https://git.io/typing-svg)" />
 </p>
 
