@@ -1,4 +1,4 @@
-<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJaimeGuerreroRangel&label=Vistas&labelColor=%23f47373&countColor=%23263759" />
+<img align="right" src="https://www.codedex.io/_next/image?url=%2Fimages%2Frobot.gif&w=64&q=75" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJaimeGuerreroRangel&label=Vistas&labelColor=%23f47373&countColor=%23263759" />
 
 <p align="center" >
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=800&color=692DF0&background=9BFF9100&vCenter=true&random=false&width=435&lines=Hola%2C+bienvenidos+a+mi+perfil;Hello%2C+welcome+to+my+profile" alt="Typing SVG" /></a>
