@@ -2,6 +2,7 @@
 <p align="right"> 
   <img src="https://www.codedex.io/_next/image?url=%2Fimages%2Frobot.gif&w=64&q=75"/>
   <img src="https://api.visitorbadge.io/api/visitors?    path=https%3A%2F%2Fgithub.com%2FJaimeGuerreroRangel&label=Vistas&labelColor=%23f47373&countColor=%23263759"/>
+    <img src="https://komarev.com/ghpvc/?username=JaimeGuerreroRangel&label=Visitors&color=a66dc7&style=plastic" alt="Profile visitor" />
 </p>
 
 <p align="center" >
