@@ -5,10 +5,12 @@
 </p>
 
 <p align="center" >
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=800&color=692DF0&background=9BFF9100&vCenter=true&random=false&width=435&lines=Hola%2C+bienvenidos+a+mi+perfil;Hello%2C+welcome+to+my+profile" alt="Typing SVG" /></a>
+  <a src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=800&color=692DF0&background=9BFF9100&vCenter=true&random=false&width=435&lines=Hola%2C+bienvenidos+a+mi+perfil;Hello%2C+welcome+to+my+profile" alt="Typing SVG" /></a>
 </p>
   
-<h1 style="font-size: 20px;">Jaime Guerrero Rangel</h1>
+<p align="center"> 
+  <a src="https://img.shields.io/badge/Odoo-%23E95420.svg?&style=for-the-badge&logo=odoo&logoColor=white"
+</p>
 
 <img src="https://img.shields.io/badge/-Odoo-%23E95420?style=for-the-badge&logo=odoo&logoColor=white" />
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
