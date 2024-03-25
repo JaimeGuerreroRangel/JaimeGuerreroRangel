@@ -16,18 +16,32 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Odoo-%23E95420.svg?&style=for-the-badge&logo=odoo&logoColor=white"/>
 </p>
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/jaime-guer/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.com/invite/NUdxtyCj" alt="Discord" title="Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="TU_ENLACE_DE_INSTAGRAM_AQUÍ" alt="Instagram" title="Instagram"><img width="32px" src="https://i.imgur.com/AfMU3Yg.png"/></a>
+</p>
 <!-- Presetation -->
 <p>
   I am Jaime Guerrero Rangel, a Chemical Engineering graduate with an unexpected passion for software development, a hobby that evolved into a professional career thanks to a government program. This opportunity allowed me to specialize in customizing modules for the ERP Odoo, covering versions from 10 to 17 and completing 160 projects in one year. My experience not only reflects my technical capacity but also my ability to integrate innovative solutions that meet complex needs, blending the rigor of chemical engineering with the creativity of software development.
 </p>
+
 <!-- Modules -->
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JaimeGuerreroRangel/JaimeGuerreroRangel/output/github-contribution-grid-snake.svg" />
 </div>
 
+<!-- Modules -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rakkas&weight=700&size=25&pause=1000&random=false&width=435&lines=My+developed+Odoo+modules." alt="My modules" /></a>
   <a href="https://github.com/JaimeGuerreroRangel/Portafolio_de_trabajo/tree/main">
   <img width="1000" src="https://github-readme-stats.vercel.app/api/pin/?username=JaimeGuerreroRangel&repo=Portafolio_de_trabajo&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Odoo 10">
 </a>
+</p>
+  
 
 
 - ⚡ Fun fact **On a quest to find my programming superpower, I'm like a chemist mixing languages and elements, but frontend development has sparked an explosive reaction in my coding journey!**
@@ -47,10 +61,3 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
