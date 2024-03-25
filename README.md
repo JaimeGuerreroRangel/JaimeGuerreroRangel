@@ -9,7 +9,7 @@
 </p>
   
 <p align="center"> 
-  <a src="https://img.shields.io/badge/Odoo-%23E95420.svg?&style=for-the-badge&logo=odoo&logoColor=white"
+  <img src="https://img.shields.io/badge/Odoo-%23E95420.svg?&style=for-the-badge&logo=odoo&logoColor=white"
 </p>
 
 <br>  
