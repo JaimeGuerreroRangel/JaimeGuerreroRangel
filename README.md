@@ -46,7 +46,7 @@
 </a>
 </p>
 
-<h3>👨‍💻 Programming and Markup Languages</h3>
+<h3>👨‍💻 Programming Languages and Framework</h3>
 
   <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -55,14 +55,14 @@
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
   </p>
 
-<h3>🧰 Frameworks and Libraries</h3>
+<h3>🧰 Libraries I have used in Odoo</h3>
 <p>
 - 📝 **Excel and CSV Operations**: `XlsxWriter`, `csv`
 - 🌐 **Web Scraping**: `BeautifulSoup4`, `lxml`
 - 🗄️ **Database Interaction**: `psycopg2` (PostgreSQL)
-- 🌐 **Web Development**: <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 - 🔢 **Number to Words**: `num2words`
 </p>
 
@@ -84,20 +84,25 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 
-- ⚡ Fun fact **On a quest to find my programming superpower, I'm like a chemist mixing languages and elements, but frontend development has sparked an explosive reaction in my coding journey!**
-
-- ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@jaimeguer/30-nites-of-code)  
-  ![@jaimeguer #30NitesOfCode](https://www.codedex.io/api/petStatus?user=jaimeguer)
-
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://instagram.com/jaime_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaime_coder" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jaime guerrero rangel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaime guerrero rangel" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jaime guerrero rangel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jaime guerrero rangel" height="30" width="40" /></a>
+  <h3>Future Goals</h3>
+<p>
+My first goal is to continuously reinforce and improve my programming logic and achieve an advanced mastery of Python, as well as deepen my knowledge of PostgreSQL. These efforts are aimed at optimizing the modules I have already developed and innovating with the creation of new ones.
+</p>
+<p>
+Secondly, I aim to learn how to use JavaScript. This will broaden my ability to contribute to module development in Odoo, especially from a front-end perspective, thereby enriching user interaction and system functionality.
+</p>
+<p>
+As a third goal, I intend to explore and master the use of a new library focused on Python or JavaScript. This will not only expand my set of technological tools but also allow me to implement more efficient and creative solutions.
+</p>
+<p>
+Lastly, I am committed to improving my English skills. I recognize that this is a crucial aspect for my personal and professional growth, especially in the field of technology, where English is the universal language. Despite the challenges I face, I am determined to overcome language barriers and achieve greater fluency.
+</p>
+<p>
+Additionally, I will add personal projects here that I undertake apart from Odoo modules. These projects will not only allow me to apply and expand my technical knowledge in a broader context but also serve as a showcase of my creativity and innovation skills.
 </p>
 
+- ## #30NitesOfCode:
+<p align="center">
+  ![@jaimeguer #30NitesOfCode](https://www.codedex.io/api/petStatus?user=jaimeguer)
+</p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
