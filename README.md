@@ -10,9 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=25&duration=1&pause=800&color=D22B21&background=9BFF9100&vCenter=true&random=false&width=435&lines=Jaime+Guerrero+Rangel" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=35&duration=1&pause=800&color=D22B21&background=9BFF9100&vCenter=true&random=false&width=435&lines=Jaime+Guerrero+Rangel" alt="My name"/>  </a>
 </p>
-<img src="https://img.shields.io/badge/Odoo-%23E95420.svg?&style=for-the-badge&logo=odoo&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Odoo-%23E95420.svg?&style=for-the-badge&logo=odoo&logoColor=white"/>
+</p>
 
 <br>  
 <p align="center">
