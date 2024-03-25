@@ -10,7 +10,7 @@
   
 <h1 style="font-size: 20px;">Jaime Guerrero Rangel</h1>
 
-<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
+<img src="https://img.shields.io/badge/-Odoo-%23E95420?style=for-the-badge&logo=odoo&logoColor=white" />
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 <br>  
