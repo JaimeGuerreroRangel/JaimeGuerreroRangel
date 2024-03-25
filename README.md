@@ -1,14 +1,17 @@
-<!-- Icon and visitor -->
-<p align="right"> 
+<!-- Icon and visitor 
   <img src="https://www.codedex.io/_next/image?url=%2Fimages%2Frobot.gif&w=64&q=75"/>
+-->
+<p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=JaimeGuerreroRangel&label=PROFILE+VIEWS&color=red&style=for-the-badge" alt="Profile visitor" />
 </p>
 
 <p align="center" >
   <a src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=800&color=692DF0&background=9BFF9100&vCenter=true&random=false&width=435&lines=Hola%2C+bienvenidos+a+mi+perfil;Hello%2C+welcome+to+my+profile" alt="Typing SVG" /></a>
 </p>
-  
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=25&duration=1&pause=800&color=D22B21&background=9BFF9100&vCenter=true&random=false&width=435&lines=Jaime+Guerrero+Rangel" alt="Typing SVG" /></a>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=25&duration=1&pause=800&color=D22B21&background=9BFF9100&vCenter=true&random=false&width=435&lines=Jaime+Guerrero+Rangel" alt="Typing SVG" /></a>
+</p>
 <img src="https://img.shields.io/badge/Odoo-%23E95420.svg?&style=for-the-badge&logo=odoo&logoColor=white"/>
 
 <br>  
