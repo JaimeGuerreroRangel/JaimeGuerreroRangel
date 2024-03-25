@@ -18,12 +18,9 @@
 </p>
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/jaime-guer/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/invite/NUdxtyCj" alt="Discord" title="Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/jimmy.coder/" alt="Instagram" title="Instagram"><img width="32px" src="https://i.imgur.com/AfMU3Yg.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/jaime-guer/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://simpleicons.org/icons/linkedin.svg"/></a>
+  <a href="https://discord.com/invite/NUdxtyCj" alt="Discord" title="Discord"><img width="32px" src="https://simpleicons.org/icons/discord.svg"/></a>
+  <a href="https://www.instagram.com/jimmy.coder/" alt="Instagram" title="Instagram"><img width="32px" src="https://simpleicons.org/icons/instagram.svg"/></a>
 </p>
 <!-- Presetation -->
 <p>
