@@ -25,11 +25,9 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JaimeGuerreroRangel/JaimeGuerreroRangel/output/github-contribution-grid-snake.svg" />
 </div>
 
-<details open> 
   <a href="https://github.com/JaimeGuerreroRangel/Portafolio_de_trabajo/tree/main">
   <img width="1000" src="https://github-readme-stats.vercel.app/api/pin/?username=JaimeGuerreroRangel&repo=Portafolio_de_trabajo&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Odoo 10">
 </a>
-<details/>
 
 
 - ⚡ Fun fact **On a quest to find my programming superpower, I'm like a chemist mixing languages and elements, but frontend development has sparked an explosive reaction in my coding journey!**
