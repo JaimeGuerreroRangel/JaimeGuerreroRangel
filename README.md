@@ -9,7 +9,6 @@
 </p>
   
 <h1 style="font-size: 20px;">Jaime Guerrero Rangel</h1>
-### Tecnologías
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
