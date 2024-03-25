@@ -22,6 +22,17 @@
   <a href="https://discord.com/invite/NUdxtyCj" alt="Discord" title="Discord"><img width="32px" src="https://simpleicons.org/icons/discord.svg"/></a>
   <a href="https://www.instagram.com/jimmy.coder/" alt="Instagram" title="Instagram"><img width="32px" src="https://simpleicons.org/icons/instagram.svg"/></a>
 </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jaime-guer/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://discord.com/invite/NUdxtyCj">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <a href="https://www.instagram.com/jimmy.coder/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
 <!-- Presetation -->
 <p>
   I am Jaime Guerrero Rangel, a Chemical Engineering graduate with an unexpected passion for software development, a hobby that evolved into a professional career thanks to a government program. This opportunity allowed me to specialize in customizing modules for the ERP Odoo, covering versions from 10 to 17 and completing 160 projects in one year. My experience not only reflects my technical capacity but also my ability to integrate innovative solutions that meet complex needs, blending the rigor of chemical engineering with the creativity of software development.
