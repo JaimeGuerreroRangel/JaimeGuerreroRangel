@@ -8,10 +8,8 @@
   <a src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=800&color=692DF0&background=9BFF9100&vCenter=true&random=false&width=435&lines=Hola%2C+bienvenidos+a+mi+perfil;Hello%2C+welcome+to+my+profile" alt="Typing SVG" /></a>
 </p>
   
-<p align="center"> 
-  <img src="https://img.shields.io/badge/Odoo-%23E95420.svg?&style=for-the-badge&logo=odoo&logoColor=white"/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=1&pause=800&color=F04747&background=9BFF9100&vCenter=true&random=false&width=435&lines=Jaime+Guerrero" alt="Typing SVG" /></a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=1&pause=800&color=F04747&background=9BFF9100&vCenter=true&random=false&width=435&lines=Jaime+Guerrero" alt="Typing SVG" /></a>
+<img src="https://img.shields.io/badge/Odoo-%23E95420.svg?&style=for-the-badge&logo=odoo&logoColor=white"/>
 
 <br>  
 <p align="center">
