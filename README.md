@@ -27,6 +27,9 @@
 
 <details open> 
   <summary><h2>📘 My modules Odoo</h2></summary>
+  <a href="https://github.com/JaimeGuerreroRangel/Portafolio_de_trabajo/tree/main/gifts_to_customers">
+  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=JaimeGuerreroRangel&repo=Portafolio_de_trabajo&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="gifts_to_customers">
+</a>
 
   <a href="https://github.com/JaimeGuerreroRangel/Portafolio_de_trabajo/tree/main"><img alt="All Modules" title="All Modules" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Modules-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
